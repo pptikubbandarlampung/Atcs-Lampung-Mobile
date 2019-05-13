@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="atcs_API_endpoint">http://192.168.43.156:5000/</string>
+        <!--<string name="atcs_API_endpoint">http://worker1.server.pptik.id:5000/</string>-->
+</resources>
